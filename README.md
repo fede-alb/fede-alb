@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Fede! 👋
 
-<!--
-**fede-alb/fede-alb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering student** at the **University of Naples Federico II**.
 
-Here are some ideas to get you started:
+### 🎯 GSoC 2026 Goal
+I am currently preparing for the **Google Summer of Code 2026**. I'm looking to contribute to projects involving **Systems Programming, Performance, or Infrastructure** using C++ or Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 My Tech Stack
+* **Languages:** C, C++ (High Performance & Systems), Java (OOP & Enterprise)
+* **Tools:** Git, LaTeX (for technical documentation), Linux Environment
+* **Education:** Focus on Operating Systems, Algorithms, and Software Engineering
+
+### 📁 Featured Projects
+* **Systems Programming:** Currently contributing to my OS course codebase, fixing bugs and optimizing performance in C.
+* **LaTeX Notes:** A comprehensive collection of academic notes for Engineering, organized and typeset with precision.
